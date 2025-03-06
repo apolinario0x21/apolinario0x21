@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there
 
 <!--
 **apolinario0x21/apolinario0x21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
